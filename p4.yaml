@@ -17,7 +17,6 @@ spec:
     severity: 4
     matchDirectories:
       - dir: /var/log/postgresql/
-        recursive: true
         readOnly: false
         fromSource:
         - path: /usr/bin/touch
