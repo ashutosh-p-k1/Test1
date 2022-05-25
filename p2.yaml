@@ -15,7 +15,6 @@ spec:
     matchLabels:
       app: MyWordpress |
   file:
-    severity: 9
     matchPaths:
     - path: /var/www/html/wp-config.php
       fromSource:
