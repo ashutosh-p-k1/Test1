@@ -19,5 +19,4 @@ spec:
     matchPaths:
     - path: /var/www/html/wp-config.php
       fromSource:
-      - path: /bin/cat
     action: Block
