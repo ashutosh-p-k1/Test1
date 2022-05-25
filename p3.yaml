@@ -27,7 +27,6 @@ spec:
       recursive: true
     - dir: /var/log/mysql/
       recursive: true
-    action: Audit
   process:
     severity: 10
     matchPaths:
