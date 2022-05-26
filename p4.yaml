@@ -26,5 +26,4 @@ spec:
         - path: /usr/bin/cat
         - path: /usr/bin/vi
         - path: /usr/bin/go
-    action: Block
     
