@@ -25,8 +25,5 @@ spec:
         - path: /usr/bin/nano
         - path: /usr/bin/cat
         - path: /usr/bin/vi
-        - path: /usr/bin/go
-        - path: /usr/bin/lib
-        - path: /usr/bin/python
     action: Block
     
