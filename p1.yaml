@@ -7,7 +7,8 @@ spec:
   description: "Deny exposure of Cassandra cluster on the public internet. Enforce Least Privilege"
   endpointSelector:
     matchLabels:
-      app: cass-server      
+      app: cass-server   
+      app: casandra
   ingressDeny:
   - fromEntities:
     - "world"
