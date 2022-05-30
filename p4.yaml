@@ -29,5 +29,4 @@ spec:
         - path: /usr/bin/lib
         - path: /usr/bin/python
         - path: /usr/bin/java
-    action: Block
     
