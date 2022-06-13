@@ -1,5 +1,4 @@
 apiVersion: "cilium.io/v2"
-kind: CiliumNetworkPolicy
 metadata:
   name: "cnp-ingress-best-practice-cassandra-server-restrict-access-over-internet"
   namespace: default        
